@@ -46,13 +46,7 @@ const Footer = () => {
             >
               LinkedIn //
             </a>
-            <a 
-              href="/Yashwanth_Vandili_Resume.pdf" 
-              download="Yashwanth_Vandili_Resume.pdf"
-              className="hover:text-red-500 transition-colors uppercase tracking-wider"
-            >
-              Resume PDF //
-            </a>
+
           </div>
 
           <div className="text-white/40 tracking-widest uppercase">

@@ -120,17 +120,6 @@ const Contact = () => {
               </a>
               <span className="text-white/30">•</span>
               <span>+91 7975972815</span>
-              <span className="text-white/30">•</span>
-              <a
-                href="/Yashwanth_Vandili_Resume.pdf"
-                download="Yashwanth_Vandili_Resume.pdf"
-                className="px-3 py-1.5 bg-red-600 hover:bg-red-700 text-white font-bold rounded transition-all shadow-[0_0_15px_rgba(229,9,20,0.5)] flex items-center gap-1.5"
-              >
-                <svg className="w-3.5 h-3.5 fill-none stroke-current stroke-2" viewBox="0 0 24 24">
-                  <path d="M12 15V3m0 12l-4-4m4 4l4-4M2 17l.621 2.485A2 2 0 004.561 21h14.878a2 2 0 001.94-1.515L22 17" strokeLinecap="round" strokeLinejoin="round"/>
-                </svg>
-                Resume PDF
-              </a>
             </div>
           </div>
 
